@@ -1,0 +1,25 @@
+*{margin: 0; padding: 0}
+
+#wrapper {
+	width: 500px; 
+	margin: 0px auto;
+}
+
+h1{
+	color: #E9967A;
+	text-align: center;
+}
+*{margin: 0; padding: 0}
+
+#wrapper {
+	width: 500px; 
+	margin: 0px auto;
+}
+
+h1{
+	color: rgb(157, 255, 0);
+	text-align: center;
+}
+#football{
+    background-color: rgb(255, 255, 191);
+}
